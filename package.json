@@ -1,0 +1,14 @@
+{
+  "name": "cucumber-javascrip-demo",
+  "version": "1.0.0",
+  "description": "implementation of cucumber with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^5.0.2"
+  }
+}
